@@ -1,17 +1,13 @@
 <h1 align="center">📰 Space Traveling</h1>
 <p align="center">Sixth challenge of the ReactJs track in Ignite Rockteseat. 🚀</p>
 
-<img src="https://github.com/tiagopierre/challenge05-react-ignite-spacetraveling/blob/master/assets/screenshot.PNG" alt="screenshot"/>
+<img src="https://github.com/pvsmda/space-traveling/blob/main/screencapture-localhost-3000-2022-03-02-17_03_23.png?raw=true" alt="screenshot"/>
 
 
 <h2>About Challenge</h2>
 <p>This challenge is for to apply the concepts of ReactJs taught at class.</p>
 <p>This is an application where your main goal is to create a blog from scratch.</p>
 
-
-<h2>In Working</h2>
-
-<img src="https://github.com/tiagopierre/challenge05-react-ignite-spacetraveling/blob/master/assets/screenshot.gif" alt="screenshot"/>
 
 <h2>Requeriments</h2>
 
@@ -65,4 +61,4 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 
 Made with
-💜 by <a href="https://github.com/tiagopierre" target="_blank">Tiago Pierre</a>
+💜 by <a href="https://github.com/pvsmda" target="_blank">Paulo Victor</a>
